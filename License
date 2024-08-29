@@ -1,0 +1,12 @@
+### **requirements.txt**
+
+```plaintext
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+scikit-learn
+tensorflow
+keras
+shap
